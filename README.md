@@ -2,7 +2,7 @@
 
 **Author**: Syed Muhammad Qasim  
 **Project**: Final Year BSc Computer Science  
-**GitHub**: [https://github.com/yourname/NEXUS-VirtualAssistant](https://github.com/yourname/NEXUS-VirtualAssistant)
+**GitHub**: https://github.com/SMQ05/NEXUS
 
 ---
 
@@ -21,7 +21,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/yourname/NEXUS-VirtualAssistant.git
+git clone https://github.com/SMQ05/NEXUS
 cd NEXUS-VirtualAssistant
 python -m venv venv
 venv\Scripts\activate
